@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HabitTracker</string>
+    <string name="habit">Type your habit here</string>
+    <string name="shift_quetion">What is the shift?</string>
+    <string name="morning">Morning</string>
+    <string name="afternoon">Afternoon</string>
+    <string name="night">Night</string>
+    <string name="habit_number">Habit number</string>
+    <string name="saved">saved</string>
+    <string name="error_saving">Error with saving habit</string>
+    <string name="habits_registered">The number of habits registered is = </string>
+    <string name="save">Save</string>
+    <string name="add_habit">Add a habit</string>
+    <string name="shift">Shift</string>
+</resources>
